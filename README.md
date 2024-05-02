@@ -12,7 +12,7 @@
   - Experience the transformative power of effective SEO strategies with our Upgrad Campus project. Through meticulous optimization techniques, we've skyrocketed organic traffic by an impressive 110%, enhancing visibility and engagement. Witness how our expertise propels brands to the forefront of online presence, delivering tangible results that exceed expectations.
 
 - <b>PrasadNetralaya Eye Hospital (https://prasadnetralaya.com/)</b>
-  - In the past six months, our SEO project for Prasadnetralaya has yielded exceptional results, boasting a remarkable 36.46% increase in overall traffic. With a surge from 142,381 to 196,942 users, our strategic optimization efforts have significantly enhanced visibility and engagement, driving impactful growth for the platform
+  - In the past six months, our SEO project for Prasadnetralaya has yielded exceptional results, boasting a remarkable 36.46% increase in overall traffic . With a surge from 142,381 to 196,942 users, our strategic optimization efforts have significantly enhanced visibility and engagement, driving impactful growth for the platform 
 - <b>Appleplywoods(.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
