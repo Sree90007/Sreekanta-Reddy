@@ -1,21 +1,23 @@
-<h1>Hi, I'm Sreekanta Reddy Kanchannagari 
+<h1>Hi, I'm Sreekanta Reddy 
 
 <h2>👨‍💻 Digital Marketing Specialist (SEO and Paid Ads):</h2>
 
-- <b>)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+<h3>About Me</h3>
+  
+</b>Experienced digital marketer specializing in SEO and paid advertising with a proven track record of delivering results for various brands. Passionate about optimizing digital strategies to drive growth and maximize ROI.</b>
+
+<h2>👨‍💻 SEO Projects:</h2>
+
+- <b>UpGrad Campus Ed-tech Company (https://upgradcampus.com/)</b>
+  - Experience the transformative power of effective SEO strategies with our Upgrad Campus project. Through meticulous optimization techniques, we've skyrocketed organic traffic by an impressive 110%, enhancing visibility and engagement. Witness how our expertise propels brands to the forefront of online presence, delivering tangible results that exceed expectations.
+
+- <b>PrasadNetralaya Eye Hospital (https://prasadnetralaya.com/)</b>
+  - In the past six months, our SEO project for Prasadnetralaya has yielded exceptional results, boasting a remarkable 36.46% increase in overall traffic. With a surge from 142,381 to 196,942 users, our strategic optimization efforts have significantly enhanced visibility and engagement, driving impactful growth for the platform
+- <b>Appleplywoods(.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Deliko</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
